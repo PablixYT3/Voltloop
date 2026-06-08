@@ -1,0 +1,28 @@
+{
+  "name": "VoltLoop",
+  "short_name": "VoltLoop",
+  "description": "Arcade de reflejos eléctricos. Tap en el momento exacto. ¿Hasta dónde llegás?",
+  "start_url": "/",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#07090d",
+  "theme_color": "#07090d",
+  "lang": "es",
+  "categories": ["games", "entertainment"],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "prefer_related_applications": false
+}
